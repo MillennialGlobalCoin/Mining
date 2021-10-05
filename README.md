@@ -1,4 +1,4 @@
-# Mining
+# Windows Mining
 
 Tutorial - Mine for blocks with Microsoft Windows
 Mine for blocks with your Windows wallet and the following instructions.
