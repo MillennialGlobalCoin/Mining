@@ -23,6 +23,8 @@ rpcbind=0.0.0.0
 rpcallowip=127.0.0.1
 listen=1
 server=1
+addnode=37.97.179.18
+addnode=102.65.230.58
 
 Click on the menu item "File" -> "Save As...".
 
